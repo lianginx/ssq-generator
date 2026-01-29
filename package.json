@@ -1,6 +1,6 @@
 {
   "name": "ssq-generator",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "用于生成中国福彩双色球的TypeScript实用程序库",
   "keywords": [
     "ssq",
